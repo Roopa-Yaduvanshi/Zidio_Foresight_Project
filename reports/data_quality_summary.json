@@ -1,0 +1,14 @@
+{
+  "sales_daily_rows": 36550,
+  "inventory_rows": 4800,
+  "sku_master_rows": 50,
+  "calendar_rows": 731,
+  "sales_duplicate_date_sku_removed": 0,
+  "inventory_duplicate_snapshot_sku_removed": 0,
+  "sales_skus": 50,
+  "inventory_skus": 200,
+  "skus_in_sales_and_inventory": 50,
+  "inventory_skus_not_in_sales": 150,
+  "calendar_missing_holiday": 723,
+  "calendar_missing_promotion_event": 656
+}

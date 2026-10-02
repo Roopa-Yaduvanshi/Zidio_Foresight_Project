@@ -1,0 +1,6 @@
+SKU,Product_Name,Current_Stock,On_Order,Forecast,Lead_Time_Days,Recommended_Units,Estimated_Cost,Recommendation
+SKU012,Product 012,47,60,155.96,12,177,222469.53000000003,Order 177 units
+SKU017,Product 017,95,26,94.005,12,149,998785.74,Order 149 units
+SKU031,Product 031,93,40,101.29,13,84,529254.6,Order 84 units
+SKU010,Product 010,83,70,102.17,13,59,229454.54,Order 59 units
+SKU040,Product 040,67,29,84.69,9,49,253284.43,Order 49 units

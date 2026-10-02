@@ -1,0 +1,31 @@
+# Virtual environments
+myenv/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+.agents/
+
+# Python cache at repo root
+__pycache__/
+service/__pycache__/
+
+# Large local artifacts (keep data/*.csv in repo for demo unless too large)
+*.log

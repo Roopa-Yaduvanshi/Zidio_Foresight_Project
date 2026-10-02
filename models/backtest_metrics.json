@@ -1,0 +1,8 @@
+{
+  "random_forest_mae": 8.4613,
+  "random_forest_wape_pct": 10.047458834705509,
+  "seasonal_naive_mae": 9.691666666666666,
+  "seasonal_naive_wape_pct": 11.508470550981635,
+  "backtest_predictions": 600,
+  "test_weeks": 12
+}
