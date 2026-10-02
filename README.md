@@ -83,16 +83,6 @@ uvicorn service.main:app --reload --port 8000
 3. Repository: your repo, branch `main`, main file path: **`app.py`**.
 4. Deploy. Copy the public URL for your submission form / demo video.
 
-## GitHub submission checklist
-
-See **[SUBMISSION.md](SUBMISSION.md)** for step-by-step GitHub, Streamlit Cloud, and demo video instructions.
-
-- [x] `README.md`, `requirements.txt`, `SUBMISSION.md`
-- [x] Notebooks 01–07
-- [x] `reports/EXECUTIVE_READOUT.md`
-- [ ] GitHub repo pushed (you create remote + push)
-- [ ] Live Streamlit URL
-- [ ] 3–5 minute demo video
 
 ## Data files
 
